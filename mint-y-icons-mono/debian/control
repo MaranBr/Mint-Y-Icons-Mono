@@ -1,0 +1,16 @@
+Source: mint-y-icons-mono
+Section: gnome
+Priority: optional
+Maintainer: MaranBr <maranbr@outlook.com>
+Build-Depends:
+ debhelper-compat (= 12)
+Standards-Version: 4.5.1
+Rules-Requires-Root: no
+Homepage: https://github.com/MaranBr/mint-y-icons-mono
+
+Package: mint-y-icons-mono
+Architecture: all
+Depends: ${misc:Depends}
+Description: Mint-Y fullcolor mono icon theme
+ A flat, colorful, and modern theme based on
+ Paper and Moka.
