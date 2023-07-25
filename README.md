@@ -1,3 +1,9 @@
+Mint-Y-Icons-Mono
+=======
+
+This is a fork of [mint-y-icons](https://github.com/linuxmint/mint-y-icons). The Linux Mint team decided to remove the monochrome icons from the original project and use symbolic icons instead. However, the package is not yet complete and the missing icons are inherited from other themes, making the visual experience mixed and inconsistent.
+
+While the Linux Mint team doesn't show a more accurate solution, I made this fork with the monochrome icons back, to keep the traditional look of the theme.
 
 Credits
 =======
