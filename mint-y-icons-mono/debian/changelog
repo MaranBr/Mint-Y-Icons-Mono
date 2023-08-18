@@ -1,3 +1,10 @@
+mint-y-icons-mono (1.7.0) devel; urgency=medium
+
+  [ MaranBr ]
+  * Sync with https://github.com/linuxmint/mint-y-icons.
+
+ -- MaranBr <maranbr@outlook.com>  Fri, 18 Aug 2023 09:07:28 +0200
+
 mint-y-icons-mono (1.6.9) devel; urgency=medium
 
   [ MaranBr ]
