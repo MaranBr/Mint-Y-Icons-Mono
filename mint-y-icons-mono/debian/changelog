@@ -1,3 +1,17 @@
+mint-y-icons-mono (1.7.1) devel; urgency=medium
+
+  [ MaranBr ]
+  * Add Monophony.
+  * New app icons.
+  * Librewolf, Obsidian and Tunnelbear forgot 'bout these.
+  * Add Neovim.
+  * Add gnome-online-accounts-gtk.
+  * Add a link for org.gnome.FileRoller.
+  * Add mintchat.
+  * Generate pngs for new app icons.
+
+ -- MaranBr <maranbr@outlook.com>  Thu, 25 Apr 2024 16:42:25 +0200
+
 mint-y-icons-mono (1.7.0) devel; urgency=medium
 
   [ MaranBr ]
