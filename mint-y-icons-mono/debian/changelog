@@ -1,3 +1,39 @@
+mint-y-icons-mono (1.7.2) devel; urgency=medium
+
+  [ MaranBr ]
+  * Add Vesktop icons.
+  * Add Zoom icons.
+  * Add PrusaSlicer icons.
+  * Add Pixelfed icons.
+  * Add Pixiv icons.
+  * Add Kotlin mimetype icons.
+  * Add Parsec icons.
+  * Add Matrix icons.
+  * Add Signal icons.
+  * Add Floorp icons.
+  * Add Mega icons.
+  * Add Draw.io icons.
+  * Add Onlyoffice icons.
+  * Add Openspades icons.
+  * Add missing flatpak icons.
+  * Add Tidal, Deezer, Vimeo and Gog icons.
+  * Add X icons.
+  * Add more new icons of some applications.
+  * Update Mendeley icons.
+  * Update Element icons.
+  * Update Avast icons.
+  * Update VLC icons.
+  * Update more icons of some applications.
+  * Remove Geary.
+  * Remove Lollypop.
+  * Remove Pitivi.
+  * Remove Uberwriter.
+  * Generate missing symlinks.
+  * Fix symlink for gnome-tweak-tool.
+  * Fix symlink for Obsidian.
+
+ -- MaranBr <maranbr@outlook.com>  Fri, 21 Apr 2024 08:12:27 +0200
+
 mint-y-icons-mono (1.7.1) devel; urgency=medium
 
   [ MaranBr ]
