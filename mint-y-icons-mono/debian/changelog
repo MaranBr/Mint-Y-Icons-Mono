@@ -15,7 +15,7 @@ mint-y-icons-mono (1.7.4) devel; urgency=medium
   * Remove gnome-builder -> mkvtoolnix icon symlink.
   * Fix LibreOffice icon symlinks for Flatpak.
 
- -- MaranBr <maranbr@outlook.com>  Tue, 27 Nov 2024 10:52:34 +0200
+ -- MaranBr <maranbr@outlook.com>  Wed, 27 Nov 2024 10:52:34 +0200
 
 mint-y-icons-mono (1.7.3) devel; urgency=medium
 
