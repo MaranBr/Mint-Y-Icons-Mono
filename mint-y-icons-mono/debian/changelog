@@ -1,3 +1,22 @@
+mint-y-icons-mono (1.7.4) devel; urgency=medium
+
+  [ MaranBr ]
+  * Add symbolic links for the Proton VPN desktop app.
+  * Add Proton Pass icon.
+  * Create org.xfce.terminalemulator.png.
+  * Add org.xfce.terminalemulator symlink.
+  * Fixed more XFCE symlinks.
+  * Update Firefox and Firefox Nightly icons.
+  * Add aptkit.
+  * Add EasyEffects.
+  * Update Patreon icon.
+  * Add FreeCAD icon.
+  * Add missing mkvtoolnix-gui symlink.
+  * Remove gnome-builder -> mkvtoolnix icon symlink.
+  * Fix LibreOffice icon symlinks for Flatpak.
+
+ -- MaranBr <maranbr@outlook.com>  Tue, 27 Nov 2024 10:52:34 +0200
+
 mint-y-icons-mono (1.7.3) devel; urgency=medium
 
   [ MaranBr ]
