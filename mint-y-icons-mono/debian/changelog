@@ -1,3 +1,14 @@
+mint-y-icons-mono (1.7.6) devel; urgency=medium
+
+  [ MaranBr ]
+  * Fix broken links.
+  * Add Scratch and Notion icons.
+  * Generate cs-nightlight icons.
+  * Replaces deprecated Inkscape commands on render-mimetypes.py.
+  * Update Visual Studio Code and Visual Studio Code Insiders icons.
+
+ -- MaranBr <maranbr@outlook.com>  Tue, 18 Feb 2025 13:26:47 +0200
+
 mint-y-icons-mono (1.7.5) devel; urgency=medium
 
   [ MaranBr ]
