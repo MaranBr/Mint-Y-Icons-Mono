@@ -398,6 +398,7 @@ gnome-tali.png <- gnubg.png
 gnome-tali.png <- org.gnome.Tali.png
 gnome-tali.png <- tali.png
 gnome-tetravex.png <- org.gnome.tetravex.png
+gnome-tetravex.png <- org.gnome.Tetravex.png
 gnome-todo.png <- org.gnome.Todo.png
 gnome-tweak-tool.png <- org.gnome.tweaks.png
 gnome-weather.png <- com.github.bitseater.weather.png
@@ -1018,7 +1019,6 @@ teamspeak.png <- teamspeak3.png
 teamspeak.png <- ts3client_linux_amd64.png
 terminal.png <- br.app.pw3270.terminal.png
 terminal.png <- io.github.tofudd.lanchat.terminal.png
-tetravex.png <- org.gnome.Tetravex.png
 texmaker.png <- net.xm1math.Texmaker.png
 texstudio.png <- TeXmacs.png
 texstudio.png <- kbibtex.png
@@ -1042,8 +1042,6 @@ trophy.png <- supertuxkart_128.png
 trophy.png <- xmoto.png
 tweetdeck.png <- Tweetdeck-tweetdeck.twitter.com.png
 tweetdeck.png <- chrome-hbdpomandigafcibbmofojjchbcdagbl-Default.png
-uberwriter.png <- Uberwriter.png
-uberwriter.png <- de.wolfvollprecht.UberWriter.png
 ubuntuone.png <- goa-account-ubuntusso.png
 ubuntuone.png <- ubuntuone-client.png
 ubuntuone.png <- ubuntuone-installer.png
@@ -1276,6 +1274,9 @@ web-netflix.png <- netflix-desktop.png
 web-newsblur.png <- Newsblur-newsblur.com.png
 web-newsblur.png <- chrome-gchdledhagjbhhodjjhiclbnaioljomj-Default.png
 web-newsblur.png <- unity-webapps-newsblur.png
+web-notion.png <- notion.png
+web-notion.png <- Notion-www.notion.com.png
+web-notion.png <- Notion-www.notion.so.png
 web-novell.png <- novell.png
 web-omg-chrome.png <- chrome-aeellliejpiclijnghognjagifplmmij-Default.png
 web-omgubuntu.png <- chrome-pmoodaljflkhbojjaiibgnlindbhebme-Default.png
@@ -1308,6 +1309,8 @@ web-rdio.png <- unity-webapps-rdio.png
 web-reddit.png <- Reddit-pay.reddit.com.png
 web-reddit.png <- Reddit-reddit.com.png
 web-reddit.png <- unity-webapps-reddit.png
+web-scratch.png <- scratch.png
+web-scratch.png <- Scratch-scratch.mit.edu.png
 web-slack.png <- chrome-jeogkiiogjbmhklcnbgkdcjoioegiknm-Default.png
 web-slack.png <- com.slack.Slack.png
 web-soundcloud.png <- chrome-ipebkipbeggmmkjjljenoblnfaenambp-Default.png
