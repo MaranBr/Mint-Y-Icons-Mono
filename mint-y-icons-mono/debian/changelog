@@ -1,3 +1,11 @@
+mint-y-icons-mono (1.7.7) devel; urgency=medium
+
+  [ MaranBr ]
+  * Update Rumble icons and add its symbolic links.
+  * Fix Sublime Merge icons.
+
+ -- MaranBr <maranbr@outlook.com>  Fri, 28 Feb 2025 07:38:21 +0200
+
 mint-y-icons-mono (1.7.6) devel; urgency=medium
 
   [ MaranBr ]
