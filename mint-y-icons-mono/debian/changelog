@@ -1,3 +1,22 @@
+mint-y-icons-mono (1.7.8) devel; urgency=medium
+
+  [ MaranBr ]
+  * Add Elk icons.
+  * Add Sober icon.
+  * Add Pleroma icon.
+  * Add Telegram system package symbolic link.
+  * Add missing Wine Help symbolic links.
+  * Add new icon name for typhoon.
+  * Update Pixiv icon.
+  * update ktorrent icons.
+  * Update cs-nightlight icon.
+  * Update Google Wallet icon.
+  * Update Google Photos icon.
+  * Update Google Maps icon.
+  * Update Google Play icon.
+
+ -- MaranBr <maranbr@outlook.com>  Tue, 24 Jun 2025 15:09:32 +0200
+
 mint-y-icons-mono (1.7.7) devel; urgency=medium
 
   [ MaranBr ]
